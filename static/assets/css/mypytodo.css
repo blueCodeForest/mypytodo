@@ -1,0 +1,64 @@
+ .bg-gradient {
+     background: linear-gradient(45deg, #fd5068, #FC7058);
+ }
+
+ .wrapper {
+     min-height: 100vh;
+ }
+
+.text-dark-light {
+    color: #4a4a4a;
+}
+
+.text-pink {
+    color: #ff3512;
+}
+
+.border-orange {
+    border-color: #dfdfdf;
+}
+
+.bg-lightgrey {
+    background-color: rgb(255, 137, 137);
+}
+
+ .font-40 {
+     font-size: 40px;
+ }
+
+ .font-20 {
+     font-size: 20px;
+ }
+
+ .todo-title {
+     font-size: 18px;
+     color: #4a4a4a;
+ }
+
+ .plus-btn {
+    position: fixed;
+    bottom: 64px;
+    right: 64px;
+    border-radius: 48px;
+ }
+
+ .plus-icon {
+    padding: 24px;
+    display: inline-block;
+ }
+
+ footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+ }
+
+ .form-control::placeholder {
+    color: #666;
+ }
+
+ .form-control:focus {
+    border: rgba(122, 122, 122, 0.4);
+    box-shadow: none;
+ }
+
